@@ -1,0 +1,8 @@
+
+build/
+*.xcodeproj/*
+.DS_Store
+!*.xcodeproj/project.pbxproj 
+#all files like ._MyClass.h
+._*.h
+._*.m
